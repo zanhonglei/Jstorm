@@ -16,7 +16,7 @@
     <name>${project.artifactId}-${project.version}</name>
 
     <properties>
-        <spring.version>4.1.1.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <jetty.version>9.2.10.v20150310</jetty.version>
         <jetty.jsp.version>9.2.10.v20150310</jetty.jsp.version>
         <slf4j.version>1.7.5</slf4j.version>
